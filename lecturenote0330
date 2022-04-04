@@ -1,0 +1,27 @@
+let ele = document.getElementBy(‘id’)
+To delete: ele.parentNote.removeChild(ele);
+Ele.let.dv = document.createElement(‘div’);
+Ele.dv.id = “meaningfulid”;
+Let dev.style.cssText = “color:red; background -color
+
+<html> 
+<body
+<div id=q>
+
+Search(node, target)
+{
+	if (node.style.color==targer)
+
+childNodes
+parentNode
+PreviousSibling 
+nextrSibling 
+
+Onclick
+Onkeypress
+Onmousedown
+Onmouseup
+Onmouseover
+Onmouseexit
+Onfocus 
+Onchange
